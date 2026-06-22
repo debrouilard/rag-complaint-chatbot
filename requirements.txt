@@ -2,17 +2,25 @@ pandas
 numpy
 matplotlib
 seaborn
+
 scikit-learn
 
 sentence-transformers
+
 langchain
 langchain-community
 langchain-text-splitters
 
 chromadb
-faiss-cpu
+
+transformers
+torch
 
 tqdm
+
+pytest
+
+streamlit
 
 jupyter
 notebook
